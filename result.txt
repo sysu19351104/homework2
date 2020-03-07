@@ -1,0 +1,40 @@
+constuctor
+constructor
+constuctor
+constuctor
+constructor
+constuctor
+copy constructor
+disstructor
+打印默认数据:
+your data:
+the number and the name
+0
+ma
+your school
+zhongda
+constuctor
+copy constructor
+disstructor
+disstuctor
+disstructor
+disstuctor
+disstructor
+input your school:
+中大
+please input the number and name:
+440513202002196051
+马
+
+your data:
+the number and the name
+440513202002196051
+马
+your school
+中大
+disstructor
+disstuctor
+disstructor
+
+C:\Users\mqz\source\repos\ConsoleApplication6\Debug\ConsoleApplication6.exe (进程 6120)已退出，代码为 0。
+按任意键关闭此窗口. . .
